@@ -1,10 +1,10 @@
 #pragma once
 
-class FWall
+class AWall
 {
 public:
-	FWall();
-	virtual ~FWall();
+	AWall();
+	virtual ~AWall();
 
 	void Impassable();
 };

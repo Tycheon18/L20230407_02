@@ -1,9 +1,9 @@
 #pragma once
-class FFloor
+class AFloor
 {
 public:
-	FFloor();
-	virtual ~FFloor();
+	AFloor();
+	virtual ~AFloor();
 
 
 };
